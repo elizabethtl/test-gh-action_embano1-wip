@@ -2,4 +2,4 @@
 
 test if malicious PR title can exploit vulnerability
 
-true']]; then $(pwd);
+-n "true"' ]]; then $(pwd);
