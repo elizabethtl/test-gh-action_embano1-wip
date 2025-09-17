@@ -1,4 +1,5 @@
 # test-gh-action_embano1-wip
 
 test if malicious PR title can exploit vulnerability
-']]; then $(pwd);
+
+true']]; then $(pwd);
