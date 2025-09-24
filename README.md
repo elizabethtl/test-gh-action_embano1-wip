@@ -2,4 +2,4 @@
 
 test if malicious PR title can exploit vulnerability
 
--n "true"' ]]; then pwd;'
+'; pwd; echo 'matched
